@@ -23,7 +23,7 @@
 
 - Find Shape :
 
-![Optional Text](Resources/shape.PNG)
+![Optional Text](Resources/triangle.PNG)
 
 
 ## Summary :
